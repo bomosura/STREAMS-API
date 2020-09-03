@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Other stream",
+      "description": "Other stream desc",
+      "id": 1
+    },
+    {
+      "title": "My stream 3",
+      "description": "My stream desc",
+      "id": 2
+    },
+    {
+      "title": "Pekora Stream",
+      "description": "Pekora stream subbed",
+      "userId": "106412998827332495594",
+      "id": 4
+    },
+    {
+      "title": "Test Refactor edited 2",
+      "description": "Test Refactor descr edited 2",
+      "id": 5
+    }
+  ]
+}
